@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Kong Sisovandara <br>A frontend developer<br>⚡️Fun fact If you know, you know, I build software project and research new technology
+Hi 👋, I'm Kong Sisovandara <br>A fullstack developer<br>⚡️Fun fact If you know, you know, I build software project and research new technology
 
 <a href="#"><img src="https://raw.githubusercontent.com/MuyleangIng/MuyleangIng/main/q.svg" style="max-width: 100%;"></a>
 
