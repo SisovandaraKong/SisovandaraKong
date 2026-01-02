@@ -1,5 +1,48 @@
-# 💫 About Me:
-Hi 👋, I'm Kong Sisovandara <br>A fullstack developer<br>⚡️Fun fact If you know, you know, I build software project and research new technology
+# 💫 About Me
+Hi 👋, I'm **Kong Sisovandara**  
+A **Fullstack Developer** currently focused on **Spring Microservices**.  
+⚡ Fun fact: I love building software projects and exploring new technologies to enhance my skills.  
+
+---
+
+## Current Role
+**Spring Microservices Developer**  
+**Institute of Science and Technology Advanced Development (ISTAD)** | Phnom Penh, Cambodia  
+*Nov 2025 – Present | Part-time*
+
+**Skills:** Spring Framework, Spring Boot, Spring Cloud, Spring Security, Spring WebFlux, Apache Kafka, Microservices, Debezium
+
+---
+
+## Previous Experience
+
+**Full Stack Web Developer**  
+*Jul 2024 – Nov 2025*  
+**Skills:** Java, Spring Boot, Next.js, React.js, JavaScript, Git, PostgreSQL, SDLC, Team Leadership  
+
+**Web Developer Fundamental**  
+*Nov 2024 – Mar 2025*  
+**Skills:** Java, React.js, JavaScript, HTML5, Tailwind CSS, PostgreSQL, Team Leadership, Problem Solving  
+
+**Web Design Junior**  
+*Jul 2024 – Sep 2024*  
+**Skills:** React.js, JavaScript, HTML5, Tailwind CSS, Bootstrap, UI/UX Design, Git, Problem Solving  
+
+---
+
+## 💡 Skills & Technologies
+
+### **Programming Languages**
+Java, JavaScript, TypeScript, C, C++, Kotlin, HTML5, CSS3  
+
+### **Frameworks & Libraries**
+Spring Boot, Spring Cloud, Spring Security, Spring WebFlux, React.js, Next.js, Laravel, Tailwind CSS, Bootstrap  
+
+### **Databases & Tools**
+PostgreSQL, MySQL, Firebase, Docker, Git, GitHub, Apache Kafka, Debezium, Vercel, AWS, Postman, Trello  
+
+### **Development & Soft Skills**
+Microservices, SDLC (Software Development Life Cycle), Team Leadership, Problem Solving, Deployment, UI/UX Design, Soft Skills  
 
 <a href="#"><img src="https://raw.githubusercontent.com/MuyleangIng/MuyleangIng/main/q.svg" style="max-width: 100%;"></a>
 
